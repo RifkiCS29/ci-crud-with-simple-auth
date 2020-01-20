@@ -76,7 +76,7 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
   Memiliki Web Server (misal XAMPP) dengan PHP minimal versi 5.6.
 
 Langkah-Langkah
-\n1. Download Source Code dari repo Github ci-crud-with-simple-auth dalam bentuk Zip.
+1. Download Source Code dari repo Github ci-crud-with-simple-auth dalam bentuk Zip.
 2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/ci-crud-with-simple-auth.
 3. Import Database yang telah disediakan dengan nama ci-crud.
 4. Setting koneksi database di file database.php dalam folder application\config\database.php
