@@ -80,10 +80,10 @@ Langkah-Langkah
 2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/ci-crud-with-simple-auth.
 3. Import Database yang telah disediakan dengan nama ci-crud.
 4. Setting koneksi database di file database.php dalam folder application\config\database.php
-	<br>'hostname' => 'localhost',
-	<br>'username' => 'root',
-	<br>'password' => '',
-	<br>'database' => 'ci_crud',
+   <br>'hostname' => 'localhost',
+   <br>'username' => 'root',
+   <br>'password' => '',
+   <br>'database' => 'ci_crud',
 5. Alamat url dapat diakses pada http://localhost/ci-crud-with-simple-auth. Berikut email dan password:
     <br>EMAIL = rifki@admin.com
     <br>PASSWORD = admin
