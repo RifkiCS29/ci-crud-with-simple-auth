@@ -73,19 +73,18 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ## How To Install this Project
 
 - Persiapan
-  <br>Memiliki Web Server (misal XAMPP) dengan PHP minimal versi 5.6.</br>
+  Memiliki Web Server (misal XAMPP) dengan PHP minimal versi 5.6.
 
 Langkah-Langkah
-<br>1. Download Source Code dari repo Github ci-crud-with-simple-auth dalam bentuk Zip.</br>
-<br>2. Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/ci-crud-with-simple-auth.</br>
-<br>3. Import Database yang telah disediakan dengan nama ci-crud.</br>
-<br>4. Setting koneksi database di file database.php dalam folder application\config\database.php</br>
-   <br>'hostname' => 'localhost',</br>
-   <br>'username' => 'root',</br>
-   <br>'password' => '',</br>
-   <br>'database' => 'ci_crud',</br>
-<br>5. Alamat url dapat diakses pada http://localhost/ci-crud-with-simple-auth. Berikut email dan password:</br>
-    <br>EMAIL = rifki@admin.com</br>
-    <br>PASSWORD = admin</br>
-
+- Download Source Code dari repo Github ci-crud-with-simple-auth dalam bentuk Zip.
+- Extract file zip (source code) ke dalam direktori htdocs pada XAMPP, misal htdocs/ci-crud-with-simple-auth.
+- Import Database yang telah disediakan dengan nama ci-crud.</br>
+- Setting koneksi database di file database.php dalam folder application\config\database.php
+   'hostname' => 'localhost',
+   'username' => 'root',
+   'password' => '',
+   'database' => 'ci_crud',
+- Alamat url dapat diakses pada http://localhost/ci-crud-with-simple-auth. Berikut email dan password:
+    EMAIL = rifki@admin.com
+    PASSWORD = admin
 SEKIAN PENJELASAN DARI SAYA, TERIMAKASIH. Created by <b>RIFKI</b>
